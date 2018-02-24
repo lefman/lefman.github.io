@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Eleftherios Spyromitros-Xioufis / My Professional Website"
+title                    : "Dr. Eleftherios Spyromitros-Xioufis"
 title_separator          : "-"
-name                     : &name "Eleftherios Spyromitros-Xioufis"
-description              : &description "Research Scientist - Machine Learning/ Data Analysis"
+name                     : &name "Dr. Eleftherios Spyromitros-Xioufis"
+description              : &description "Research scientist at CERTH-ITI"
 url                      : https://lefman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lefman/lefman.github.io"
+repository               : "lefman.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Dr. Eleftherios Spyromitros-Xioufis"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Research scientist at CERTH-ITI, expert in Machine Learning and Data Analysis"
   location         : "Thessaloniki, Greece"
   employer         :
   googlescholar    : "https://scholar.google.gr/citations?user=DnF3UEUAAAAJ&hl=en"
-  email            :
+  email            : "espyromi@iti.gr"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,8 +97,8 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/espyromi"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
