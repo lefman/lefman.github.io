@@ -9,7 +9,10 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Projects"
+    url: /portfolio/
+    
+  - title: "Contests & Awards"
     url: /portfolio/
         
   - title: "Blog Posts"
